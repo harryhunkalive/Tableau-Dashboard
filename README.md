@@ -1,5 +1,6 @@
 # Tableau-Dashboard
 
+<img width="1594" height="827" alt="image" src="https://github.com/user-attachments/assets/eb4cceb7-ab9b-44d9-b74a-47bc6513340c" />
 
 
 ![image](https://github.com/user-attachments/assets/f3720aa0-17af-44d9-a3e0-bc025d3471bb)
